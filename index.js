@@ -1,2 +1,5 @@
 var a, b
-function 
+function(){
+  a + b 
+  returns (a + b)
+}
