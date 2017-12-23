@@ -1,5 +1,5 @@
 var a, b
-function(){
+function(aplusb){
   a + b 
   returns (a + b)
 }
