@@ -7,4 +7,4 @@ function subtract(a,b) {
   a - b
   return (a - b)
 }
-function multiply
+function multiply(a,b) {
