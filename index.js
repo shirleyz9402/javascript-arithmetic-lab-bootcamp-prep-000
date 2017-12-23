@@ -35,6 +35,10 @@ function preserveDecimal(a) {
   parseFloat(a)
   return parseFloat(a)
 }
+function preserveDecimal(a) {
+  parseFloat(a)
+  return parseFloat('communism')
+}
 
 
 
